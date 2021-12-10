@@ -1,0 +1,99 @@
+Script started on Mon Dec 6 23:10:40 2021
+[1m[7m%[27m[1m[0m
+
+[0m[27m[24m[Jbash-4.4$% [K[?2004hlls[?2004l
+
+Makefile automate.c color.h
+Typescript_project3_amahi_221 automate.h
+[1m[7m%[27m[1m[0m
+
+[0m[27m[24m[Jbash-4.4$% [K[?2004huuname -a[?2004l
+
+Linux zeus-1.vse.gmu.edu 4.18.0-305.10.2.el8_4.x86_64 #1 SMP Mon Jul 12 04:43:18 EDT 2021 x86_64 x86_64 x86_64 GNU/Linux
+[1m[7m%[27m[1m[0m
+
+[0m[27m[24m[Jbash-4.4$% [K[?2004hlls[?2004l
+
+Makefile automate.c color.h
+Typescript_project3_amahi_221 automate.h
+[1m[7m%[27m[1m[0m
+
+[0m[27m[24m[Jbash-4.4$% [K[?2004hmmake [?2004l
+
+clear
+[H[2Jgcc -Og -Wall -pedantic-errors -o automate automate.c
+[1m[7m%[27m[1m[0m
+
+[0m[27m[24m[Jbash-4.4$% [K[?2004hlls[?2004l
+
+Makefile automate automate.h
+Typescript_project3_amahi_221 automate.c color.h
+[1m[7m%[27m[1m[0m
+
+[0m[27m[24m[Jbash-4.4$% [K[?2004h../automate[1m [0m[0m [?2004l
+
+---
+
+[0;35m\* Welcome to GMU's Starship Robots Delivery
+
+- Central Dispatch System[0m
+
+---
+
+[34mNew delivery order? (y/n) - [0my
+
+[36mRobot Number: [35m12
+
+[36mDelivery Address for new delivery order: [35m1234 carta way
+
+[36mRestaurant from which to pick up food: [35mpopeyes
+
+[36mFood Item: [35mchicken
+[36mFood Item: [35mmashed potatos
+[36mFood Item: [35mshrimp
+[36mFood Item: [35m
+
+[34mNew delivery order? (y/n) - [0my
+
+[36mRobot Number: [35m34
+
+[36mDelivery Address for new delivery order: [35m312 district avenue
+
+[36mRestaurant from which to pick up food: [35mNYC steak house
+
+[36mFood Item: [35msteak
+[36mFood Item: [35mwagyu beef
+[36mFood Item: [35mbacon strips
+[36mFood Item: [35m
+
+[34mNew delivery order? (y/n) - [0mn
+[31m
+Order Summary
+[0m-------------------------------------------
+
+[34mRobot Number: 34 Delivery order from 'NYC steak house
+' has 3 food item(s)
+[33mFood Item: steak
+[0m[33mFood Item: wagyu beef
+[0m[33mFood Item: bacon strips
+[0m[36mDeliver To: 312 district avenue
+
+[34mRobot Number: 12 Delivery order from 'popeyes
+' has 3 food item(s)
+[33mFood Item: chicken
+[0m[33mFood Item: mashed potatos
+[0m[33mFood Item: shrimp
+[0m[36mDeliver To: 1234 carta way
+
+Exiting program
+[1m[7m%[27m[1m[0m
+
+[0m[27m[24m[Jbash-4.4$% [K[?2004hlls[?2004l
+
+Makefile automate automate.h
+Typescript_project3_amahi_221 automate.c color.h
+[1m[7m%[27m[1m[0m
+
+[0m[27m[24m[Jbash-4.4$% [K[?2004h∂ [?2004l
+
+Script done on Mon Dec 6 23:12:51 2021
